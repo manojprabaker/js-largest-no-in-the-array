@@ -1,1 +1,0 @@
-# js-largest-no-in-the-array
